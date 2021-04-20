@@ -23,7 +23,7 @@
             "Illuminate\\Support\\": "src/"
         },
         "files": [
-            "helpers.php"
+            "src/helpers.php"
         ]
     },
     "extra": {
